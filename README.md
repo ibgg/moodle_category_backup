@@ -7,7 +7,7 @@ Give execute permissions to the script:
 
 Setup a config file including your database credentials and moodle config. You can copy the CONFIG file and replace your setup
 
-`$cp CONFIG.EXAMPLE CONFIG`
+`$cp CONFIG CONFIG.EXAMPLE`
 
 Then, you shoud put your setup:
 `DBUSER=moodle_db_user
