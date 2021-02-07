@@ -5,7 +5,7 @@ This script generates backups of courses given a category name
 Give execute permissions to the script:
 `chmod +x backup.sh`
 
-Setup a config file including your database credentials and moodle config. You can copy the CONFIG file and replace your setup
+Setup a config file including your database credentials and moodle config. You can copy the CONFIG.EXAMPLE file and replace your setup
 
 `$cp CONFIG CONFIG.EXAMPLE`
 
