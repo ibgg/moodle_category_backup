@@ -1,0 +1,5 @@
+DBUSER=moodle_db_user
+DBNAME=moodle_db_name
+DBPASS=moodle_db_password
+MOODLE_DATA_DIR=moodle_data_dir
+MOODLE_DIR=moodle_home_dir
