@@ -10,12 +10,12 @@ Setup a config file including your database credentials and moodle config. You c
 `$cp CONFIG CONFIG.EXAMPLE`
 
 Then, you shoud put your setup:
-`DBUSER=moodle_db_user
+```DBUSER=moodle_db_user
 DBNAME=moodle_db_name
 DBPASS=moodle_db_password
 MOODLE_DATA_DIR=moodle_data_dir
 MOODLE_DIR=moodle_home_dir
-`
+```
 
 ## Run
 `./backup.sh --category "category_name"`
